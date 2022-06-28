@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\bin\Debug\net6.0\atividadeProjeto.exe
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\bin\Debug\net6.0\atividadeProjeto.deps.json
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\bin\Debug\net6.0\atividadeProjeto.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\bin\Debug\net6.0\atividadeProjeto.dll
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\bin\Debug\net6.0\atividadeProjeto.pdb
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.dll
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\refint\atividadeProjeto.dll
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.pdb
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\atividadeProjeto.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\atividade-projeto\atividade-projeto\obj\Debug\net6.0\ref\atividadeProjeto.dll
