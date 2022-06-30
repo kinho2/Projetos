@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "atiEstruturaS/1.0.0": {
+        "runtime": {
+          "atiEstruturaS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atiEstruturaS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

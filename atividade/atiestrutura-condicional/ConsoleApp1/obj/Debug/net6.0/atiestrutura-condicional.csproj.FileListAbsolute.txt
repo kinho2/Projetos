@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\atiestrutura-condicional.exe
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\atiestrutura-condicional.deps.json
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\atiestrutura-condicional.runtimeconfig.json
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\atiestrutura-condicional.dll
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\atiestrutura-condicional.pdb
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.AssemblyInfo.cs
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.dll
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\atiestrutura-condicional.dll
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.pdb
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\atiestrutura-condicional.genruntimeconfig.cache
+C:\Users\kinho\projet\ws-vs2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\atiestrutura-condicional.dll
