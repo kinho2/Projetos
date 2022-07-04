@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kinho\\projet\\Atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj": {}
+    "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kinho\\projet\\Atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj": {
+    "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kinho\\projet\\Atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj",
+        "projectUniqueName": "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj",
         "projectName": "atiEstruturaS",
-        "projectPath": "C:\\Users\\kinho\\projet\\Atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj",
+        "projectPath": "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\atiEstruturaS\\atiEstruturaS\\atiEstruturaS.csproj",
         "packagesPath": "C:\\Users\\kinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kinho\\projet\\Atividade\\atiEstruturaS\\atiEstruturaS\\obj\\",
+        "outputPath": "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\atiEstruturaS\\atiEstruturaS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

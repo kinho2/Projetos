@@ -1,0 +1,8 @@
+C:\Users\kinho\projet\Atividade\Atividade\obj\Debug\Atividade.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\Atividade\Atividade\obj\Debug\Atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\kinho\projet\Atividade\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\Atividade\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\kinho\projet\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\kinho\projet\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\kinho\projet\Atividade\Atividade\obj\Debug\Atividade.exe
+C:\Users\kinho\projet\Atividade\Atividade\obj\Debug\Atividade.pdb

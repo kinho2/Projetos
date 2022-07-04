@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kinho\\projet\\atividade projetos\\correçãop\\correçãop\\correçãop.csproj": {}
+    "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\correçãop\\correçãop\\correçãop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kinho\\projet\\atividade projetos\\correçãop\\correçãop\\correçãop.csproj": {
+    "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\correçãop\\correçãop\\correçãop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kinho\\projet\\atividade projetos\\correçãop\\correçãop\\correçãop.csproj",
+        "projectUniqueName": "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\correçãop\\correçãop\\correçãop.csproj",
         "projectName": "correçãop",
-        "projectPath": "C:\\Users\\kinho\\projet\\atividade projetos\\correçãop\\correçãop\\correçãop.csproj",
+        "projectPath": "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\correçãop\\correçãop\\correçãop.csproj",
         "packagesPath": "C:\\Users\\kinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kinho\\projet\\atividade projetos\\correçãop\\correçãop\\obj\\",
+        "outputPath": "C:\\Users\\kinho\\projet\\atividade projetos\\atividade\\correçãop\\correçãop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

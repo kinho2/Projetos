@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\for\for\bin\Debug\net6.0\for.exe
+C:\Users\kinho\projet\atividade projetos\for\for\bin\Debug\net6.0\for.deps.json
+C:\Users\kinho\projet\atividade projetos\for\for\bin\Debug\net6.0\for.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\for\for\bin\Debug\net6.0\for.dll
+C:\Users\kinho\projet\atividade projetos\for\for\bin\Debug\net6.0\for.pdb
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.dll
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\refint\for.dll
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.pdb
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\for.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\for\for\obj\Debug\net6.0\ref\for.dll

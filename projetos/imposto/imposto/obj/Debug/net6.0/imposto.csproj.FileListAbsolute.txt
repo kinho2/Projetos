@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\bin\Debug\net6.0\imposto.exe
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\bin\Debug\net6.0\imposto.deps.json
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\bin\Debug\net6.0\imposto.runtimeconfig.json
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\bin\Debug\net6.0\imposto.dll
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\bin\Debug\net6.0\imposto.pdb
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.AssemblyInfo.cs
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.dll
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\refint\imposto.dll
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.pdb
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\imposto.genruntimeconfig.cache
+C:\Users\kinho\projet\ws-vs2022\imposto\imposto\obj\Debug\net6.0\ref\imposto.dll

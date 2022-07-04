@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imposto", "imposto\imposto.csproj", "{30B93D0B-B778-4E5D-B0A7-12D87A1FDEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B93D0B-B778-4E5D-B0A7-12D87A1FDEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B93D0B-B778-4E5D-B0A7-12D87A1FDEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B93D0B-B778-4E5D-B0A7-12D87A1FDEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B93D0B-B778-4E5D-B0A7-12D87A1FDEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A684EF38-A435-464B-A474-CB364E4289AE}
+	EndGlobalSection
+EndGlobal
