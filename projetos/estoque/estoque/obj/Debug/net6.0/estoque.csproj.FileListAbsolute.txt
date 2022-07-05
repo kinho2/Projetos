@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\bin\Debug\net6.0\estoque.exe
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\bin\Debug\net6.0\estoque.deps.json
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\bin\Debug\net6.0\estoque.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\bin\Debug\net6.0\estoque.dll
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\bin\Debug\net6.0\estoque.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.dll
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\refint\estoque.dll
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\estoque.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\projetos\estoque\estoque\obj\Debug\net6.0\ref\estoque.dll
