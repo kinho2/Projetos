@@ -5,7 +5,7 @@ namespace projetosdeclass {
     class Program {
         static void Main(string[] args) {
 
-            /*Retengulo r = new Retengulo();
+            Retengulo r = new Retengulo();
 
             Console.WriteLine("Entre a largura e altura do retângulo: ");
             Console.Write("largura: ");
@@ -32,7 +32,7 @@ namespace projetosdeclass {
             Console.WriteLine("Digite a porcentagem para aumentar o salário: ");
             double porc = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             f.AumentarSalario(porc);
-            Console.WriteLine(" Dados do funcionario: " + f);*/
+            Console.WriteLine(" Dados do funcionario: " + f);
 
             Console.WriteLine("-------------------------------------------");
             Aluno n = new Aluno();
