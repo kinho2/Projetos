@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\bin\Debug\net6.0\menbEstatic.exe
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\bin\Debug\net6.0\menbEstatic.deps.json
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\bin\Debug\net6.0\menbEstatic.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\bin\Debug\net6.0\menbEstatic.dll
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\bin\Debug\net6.0\menbEstatic.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.dll
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\refint\menbEstatic.dll
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\menbEstatic.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\projetos\menbEstatic\menbEstatic\obj\Debug\net6.0\ref\menbEstatic.dll
