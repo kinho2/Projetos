@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kinho\\projet\\atividade projetos\\projetos\\menbEstatic\\menbEstatic\\menbEstatic.csproj",
+      "projectUniqueName": "C:\\Users\\kinho\\OneDrive\\Documentos\\GitHub\\Projetos\\projetos\\menbEstatic\\menbEstatic\\menbEstatic.csproj",
       "projectName": "menbEstatic",
-      "projectPath": "C:\\Users\\kinho\\projet\\atividade projetos\\projetos\\menbEstatic\\menbEstatic\\menbEstatic.csproj",
+      "projectPath": "C:\\Users\\kinho\\OneDrive\\Documentos\\GitHub\\Projetos\\projetos\\menbEstatic\\menbEstatic\\menbEstatic.csproj",
       "packagesPath": "C:\\Users\\kinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kinho\\projet\\atividade projetos\\projetos\\menbEstatic\\menbEstatic\\obj\\",
+      "outputPath": "C:\\Users\\kinho\\OneDrive\\Documentos\\GitHub\\Projetos\\projetos\\menbEstatic\\menbEstatic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
