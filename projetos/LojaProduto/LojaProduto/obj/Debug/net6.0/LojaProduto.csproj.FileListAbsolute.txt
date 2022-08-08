@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\bin\Debug\net6.0\LojaProduto.exe
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\bin\Debug\net6.0\LojaProduto.deps.json
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\bin\Debug\net6.0\LojaProduto.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\bin\Debug\net6.0\LojaProduto.dll
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\bin\Debug\net6.0\LojaProduto.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.dll
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\refint\LojaProduto.dll
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\LojaProduto.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\projetos\LojaProduto\LojaProduto\obj\Debug\net6.0\ref\LojaProduto.dll
