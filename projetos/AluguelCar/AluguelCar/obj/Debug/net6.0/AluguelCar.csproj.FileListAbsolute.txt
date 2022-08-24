@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\bin\Debug\net6.0\AluguelCar.exe
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\bin\Debug\net6.0\AluguelCar.deps.json
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\bin\Debug\net6.0\AluguelCar.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\bin\Debug\net6.0\AluguelCar.dll
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\bin\Debug\net6.0\AluguelCar.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.dll
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\refint\AluguelCar.dll
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\AluguelCar.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\projetos\AluguelCar\AluguelCar\obj\Debug\net6.0\ref\AluguelCar.dll
