@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\bin\Debug\net6.0\ParcContract.exe
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\bin\Debug\net6.0\ParcContract.deps.json
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\bin\Debug\net6.0\ParcContract.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\bin\Debug\net6.0\ParcContract.dll
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\bin\Debug\net6.0\ParcContract.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.dll
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\refint\ParcContract.dll
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ParcContract.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\projetos\ParcContract\ParcContract\obj\Debug\net6.0\ref\ParcContract.dll
