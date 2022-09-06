@@ -1,0 +1,15 @@
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\bin\Debug\net6.0\Urna.exe
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\bin\Debug\net6.0\Urna.deps.json
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\bin\Debug\net6.0\Urna.runtimeconfig.json
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\bin\Debug\net6.0\Urna.dll
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\bin\Debug\net6.0\Urna.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.csproj.AssemblyReference.cache
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.AssemblyInfoInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.AssemblyInfo.cs
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.csproj.CoreCompileInputs.cache
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.dll
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\refint\Urna.dll
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.pdb
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\Urna.genruntimeconfig.cache
+C:\Users\kinho\projet\atividade projetos\projetos\Urna\Urna\obj\Debug\net6.0\ref\Urna.dll
